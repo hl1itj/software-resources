@@ -106,6 +106,7 @@
 | https://newstars77.blog.me/                     |                                                              |
 | https://noninertialframe.com/blog               | #ChomeExtension, ...                                         |
 | https://nsh83.tistory.com/                      |                                                              |
+| https://open-support.tistory.com/category/%EA%B0%9C%EB%B0%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0 |                   |
 | https://paiai.tistory.com/category              | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
 | https://popit.kr                                |                                                              |                                     
 | https://sanghaklee.tistory.com                  |                                                              |
