@@ -24,3 +24,4 @@
 * [네이버개발자센터](https://cafe.naver.com/ndevcenter)
 * [구루비](http://www.gurubee.net/)
 * [이상한모임](https://www.youtube.com/channel/UCID9irVXdprEARXI8S8FRbg)
+* [펌웨어개발자 카페 정리](https://open-support.tistory.com/entry/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%B9%B4%ED%8E%98-%EC%A0%95%EB%A6%AC?fbclid=IwAR2pzeCa-2cs8D_edSXvn4o59T4h1up-95ao4XqOMo3AI8YbkNBKB9k-NaQ)
